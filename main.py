@@ -1,5 +1,5 @@
-from DataDrivenDiplomatBuyerAgent import BuyerAgent
-from seller_agent import SellerAgent
+from AIAgent import BuyerAgent
+from SellerAgent import SellerAgent
 
 def run_negotiation():
     print("Negotiation Session Started")
